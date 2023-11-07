@@ -1,2 +1,1 @@
-# CB_task_1
-Week 1 assignment For Celestial Biscuit by Mansi (CB23137)
+ CB_task_1_BY_MansiCB23137
